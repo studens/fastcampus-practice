@@ -4,7 +4,7 @@ version = "0.1.0"
 description = ""
 authors = ["namsu <studens1@gmail.com>"]
 license = "Apache 2.0"
-#readme = "README.md"
+readme = "README.md"
 
 [tool.poetry.dependencies]
 python = ">=3.11,<3.12"
