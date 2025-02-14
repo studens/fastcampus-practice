@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "fastcampus-perplexity-clone"
+name = "fastcampus-perplexity"
 version = "0.1.0"
 description = ""
 authors = ["namsu <studens1@gmail.com>"]
