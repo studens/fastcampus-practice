@@ -21,9 +21,3 @@ python-dotenv = "^1.0.1"
 [build-system]
 requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
-
-
-[tool.poetry]
-packages = [
-    { include = "fastcampus_practice" }  # 하이픈(-)이 아닌 언더스코어(_) 사용
-]
